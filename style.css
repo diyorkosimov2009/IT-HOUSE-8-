@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+button{
+    display: inline;
+    align-items: baseline;
+    justify-self: start;
+    quotes: auto;
+    src: format(1.3);
+    margin: 10px 29px;
+}
